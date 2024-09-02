@@ -717,6 +717,10 @@ button {
     font-size: 1.6rem;
 }
 
+.appointment__phone {
+    color: inherit;
+}
+
 /* Footer */
 .footer {
     padding: 100px 135px 42px;

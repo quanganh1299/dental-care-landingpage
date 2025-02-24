@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /dang-ky.html/
+Disallow: /no-google-bot/
+
+Sitemap: https://quanganh1299.github.io/dental-care-landingpage/sitemap.xml
